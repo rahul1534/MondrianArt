@@ -94,5 +94,29 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Examples\109e1453-d68e-4833-84aa-4cbd06ddaeb9.png" />
+    <Resource Include="Examples\22364357-9a24-46fe-91e0-98fd6c55479a.png" />
+    <Resource Include="Examples\23f3fe45-8a3b-4779-ade6-fe70231f0246.png" />
+    <Resource Include="Examples\2ba49c90-a47d-4f5a-afca-c6dbc41b2d55.png" />
+    <Resource Include="Examples\2e6b35e2-e105-4887-93c8-965e56ef1315.png" />
+    <Resource Include="Examples\32a25875-f673-4e20-964d-24f4031d32a4.png" />
+    <Resource Include="Examples\35d86a1a-8656-40b2-8331-e96747f760a8.png" />
+    <Resource Include="Examples\3ef86969-188d-4061-952e-68912cb65f1f.png" />
+    <Resource Include="Examples\40358e71-a43a-4925-96f6-7d173eeb2012.png" />
+    <Resource Include="Examples\46fdb45b-153d-4fbd-babb-a73f723bedef.png" />
+    <Resource Include="Examples\4f08d28c-5ccc-489c-a90b-cd6a3e363460.png" />
+    <Resource Include="Examples\5176cb33-e890-40d6-8f7d-3bbd4d942715.png" />
+    <Resource Include="Examples\51ce6589-2612-46e3-b506-fb238b5c0107.png" />
+    <Resource Include="Examples\5cac3f94-e9ed-4505-9862-45bfc2930312.png" />
+    <Resource Include="Examples\75c6ff2d-446e-4efb-8695-8a7ffc88866b.png" />
+    <Resource Include="Examples\7c1121aa-c151-4225-ab94-96b9ce1f6c97.png" />
+    <Resource Include="Examples\82aebb12-5ae5-4e5e-bb0d-76b242e01c96.png" />
+    <Resource Include="Examples\aea4b32c-4aef-4555-88a4-d9d319467d4c.png" />
+    <Resource Include="Examples\bfbab09b-b55e-4e0a-8184-fcf72163a585.png" />
+    <Resource Include="Examples\f9379d06-3df9-4e9b-9361-d53eaf5b325c.png" />
+    <Resource Include="Examples\fac03e76-7b5f-47bf-89a3-b7c5abb334cc.png" />
+    <Resource Include="Examples\fd3edaae-52ff-4162-8768-c84ac0a82050.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
