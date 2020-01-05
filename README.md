@@ -1,5 +1,5 @@
-# MondarianArt
-What is Mondarian Art?
+# MondrianArt
+What is Mondrian Art?
 
 https://en.wikipedia.org/wiki/Piet_Mondrian
 
