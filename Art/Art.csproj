@@ -95,7 +95,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Examples\109e1453-d68e-4833-84aa-4cbd06ddaeb9.png" />
     <Resource Include="Examples\22364357-9a24-46fe-91e0-98fd6c55479a.png" />
     <Resource Include="Examples\23f3fe45-8a3b-4779-ade6-fe70231f0246.png" />
     <Resource Include="Examples\2ba49c90-a47d-4f5a-afca-c6dbc41b2d55.png" />
